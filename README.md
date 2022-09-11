@@ -6,7 +6,7 @@ Repository contains data processing of a csv file containing number of covid's c
 
 To clone the repo :
 
-`git clone https://github.com/AymanIlyass/brazil-cases.git`
+`git clone https://github.com/DATAPIPELINE-2TECH/Final-project.git`
 
 The two ways to execute the notebook locally with parameters are: (1) through the Python API and (2) through the command line interface.
 
