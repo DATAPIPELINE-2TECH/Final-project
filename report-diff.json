@@ -1,0 +1,18 @@
+{
+"tables" : [
+{
+"table" :"new_brazil_covid19",
+"ref" : "output",
+"len_table" : 11421,
+"count_distinct_lines" : 7384,
+"count_distinct_lines_with_date_filter" : 0
+},
+{
+"table" :"brazil_covid19",
+"ref" : "source",
+"len_table" : 12258,
+"count_distinct_lines" : 7384,
+"count_distinct_lines_with_date_filter" : 837
+}
+]
+}
